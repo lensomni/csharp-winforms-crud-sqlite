@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="oop_kr.Models.AnalyticsRepository">
+    <Position X="0.5" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAIAA=</HashCode>
+      <FileName>Models\AnalyticsRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="oop_kr.Models.BaseRepository">
+    <Position X="4.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\BaseRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop_kr.Models.Dish">
+    <Position X="18.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACIAAAAQAgBAAEAAAAAAQAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Models\Dish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop_kr.Models.DishRepository">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKAAAAAAAAAAAgAAAAAAAAAAAEAAAACAgAAAAAAAAA=</HashCode>
+      <FileName>Models\DishRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="oop_kr.Models.Order">
+    <Position X="12.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAIQCAAAAAAAAAAAAAAAAAQAAAAAAABAAAA=</HashCode>
+      <FileName>Models\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop_kr.Models.OrderDisplay">
+    <Position X="20" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAQAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\OrderDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop_kr.Models.OrderedDish">
+    <Position X="16.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\OrderedDish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop_kr.Models.OrderedDishRepository">
+    <Position X="5.75" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Models\OrderedDishRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="oop_kr.Models.OrderItem">
+    <Position X="14.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAgCAAAAA=</HashCode>
+      <FileName>Models\OrderItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop_kr.Models.OrderRepository">
+    <Position X="8.5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAABAAAAAAAAAAAEAAAAAEgAAAAAAAAA=</HashCode>
+      <FileName>Models\OrderRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="oop_kr.Presenters.AnalyticsPresenter">
+    <Position X="28.25" Y="8.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAQABAAAAAAAAAAAAAAAAAAACAAACAAAAE=</HashCode>
+      <FileName>Presenters\AnalyticsPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop_kr.Presenters.DishPresenter">
+    <Position X="30.75" Y="8.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgACAAACAABAIAAAAgAAAIAAAAAAAAABQCEAAABAAEA=</HashCode>
+      <FileName>Presenters\DishPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop_kr.Presenters.FeaturesPresenter">
+    <Position X="36.5" Y="8.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EBAAAEAEAIAAAAAAAAQAAIAAAAAAAAAAACAAABAAAEA=</HashCode>
+      <FileName>Presenters\FeaturesPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop_kr.Presenters.MainPresenter">
+    <Position X="25.75" Y="8.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAUBAAAAAAAAAAAAAAAAAAAAAAAIABAAA=</HashCode>
+      <FileName>Presenters\MainPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop_kr.Presenters.OrderPresenter">
+    <Position X="33.5" Y="8.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IkAAAEAiAAAiAIAAAiAAAAAABAAAACAIAGAAABBAQEA=</HashCode>
+      <FileName>Presenters\OrderPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop_kr.DataBaseHelper">
+    <Position X="6" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EBAgAAgEAAAQAAgABAAAAEAAAAAAgAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Utils\DataBaseHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop_kr.Utils.FileHelper">
+    <Position X="3.5" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAIAAAAA=</HashCode>
+      <FileName>Utils\FileHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop_kr.Utils.ModelDataValidator">
+    <Position X="0.5" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\ModelDataValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop_kr.AddDishToOrderForm">
+    <Position X="14.75" Y="11.5" Width="3.5" />
+    <Members>
+      <Field Name="ComboBoxCategory" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="DataGridViewSearchDishes" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAMAAAAEaAAACAAAADAAAACBAIAwBAAQAAACAAgAAA=</HashCode>
+      <FileName>Views\AddDishToOrderForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop_kr.AnalyticsForm">
+    <Position X="2.75" Y="11.5" Width="2.5" />
+    <Members>
+      <Field Name="ButtonGenerateReport" Hidden="true" />
+      <Field Name="ButtonRefreshChart" Hidden="true" />
+      <Field Name="chartDishDemand" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="dateTimePickerEndDate" Hidden="true" />
+      <Field Name="dateTimePickerStartDate" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AACMAAEAACAAEBAIAECAAAICBAAAAAAAQAGAIAAgACA=</HashCode>
+      <FileName>Views\AnalyticsForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="oop_kr.FeaturesForm">
+    <Position X="5.75" Y="11.5" Width="2.5" />
+    <Members>
+      <Field Name="ButtonCreateDataBase" Hidden="true" />
+      <Field Name="ButtonDeleteDataBase" Hidden="true" />
+      <Field Name="ButtonSaveToJSON" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAACAAAAAgBgCAAAASBAAAAAIAQAAAIAAiCAA=</HashCode>
+      <FileName>Views\FeaturesForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="oop_kr.MainForm">
+    <Position X="11.5" Y="11.5" Width="2.75" />
+    <Members>
+      <Field Name="button1" Hidden="true" />
+      <Field Name="button2" Hidden="true" />
+      <Field Name="button3" Hidden="true" />
+      <Field Name="button4" Hidden="true" />
+      <Field Name="button5" Hidden="true" />
+      <Field Name="button6" Hidden="true" />
+      <Field Name="button7" Hidden="true" />
+      <Field Name="button8" Hidden="true" />
+      <Field Name="ButtonShowAnalyticsForm" Hidden="true" />
+      <Field Name="ButtonShowFeaturesForm" Hidden="true" />
+      <Field Name="ButtonShowMenuForm" Hidden="true" />
+      <Field Name="ButtonShowOrdersForm" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="panel2" Hidden="true" />
+      <Field Name="panel3" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAAEGAAAEiAFEBAAAACAEkACAMQ7AAAAgAAAAYABAAA=</HashCode>
+      <FileName>Views\MainForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="oop_kr.MenuForm">
+    <Position X="21.75" Y="11.5" Width="2.75" />
+    <Members>
+      <Field Name="ButtonAddDish" Hidden="true" />
+      <Field Name="ButtonCancel" Hidden="true" />
+      <Field Name="ButtonGenerateMenu" Hidden="true" />
+      <Field Name="ButtonSave" Hidden="true" />
+      <Field Name="comboBoxDishCategory" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="contextMenuStrip1" Hidden="true" />
+      <Field Name="dataGridViewAllDishes" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="tabControl1" Hidden="true" />
+      <Field Name="tabPage1" Hidden="true" />
+      <Field Name="tabPage2" Hidden="true" />
+      <Field Name="textBoxDishDescription" Hidden="true" />
+      <Field Name="textBoxDishName" Hidden="true" />
+      <Field Name="textBoxDishPrice" Hidden="true" />
+      <Field Name="textBoxSearchDish" Hidden="true" />
+      <Field Name="TrackBarDishPrice" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>oDCAAARgECCYARAgEIDBjAICFM4oBAQAQAAAIBBjJAA=</HashCode>
+      <FileName>Views\MenuForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="oop_kr.OrdersForm">
+    <Position X="18.75" Y="11.5" Width="2.5" />
+    <Members>
+      <Field Name="ButtonAddDishToOrder" Hidden="true" />
+      <Method Name="ButtonAddDishToOrder_Click" Hidden="true" />
+      <Field Name="ButtonAddOrder" Hidden="true" />
+      <Method Name="ButtonAddOrder_Click" Hidden="true" />
+      <Field Name="ButtonCancel" Hidden="true" />
+      <Method Name="ButtonCancel_Click" Hidden="true" />
+      <Field Name="ButtonPlaceOrder" Hidden="true" />
+      <Method Name="ButtonPlaceOrder_Click" Hidden="true" />
+      <Method Name="ButtonRemoveDishFromOrder_Click" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="contextMenuStrip1" Hidden="true" />
+      <Field Name="dataGridViewAllOrders" Hidden="true" />
+      <Method Name="dataGridViewAllOrders_CellContentDoubleClick" Hidden="true" />
+      <Field Name="dataGridViewOrderItems" Hidden="true" />
+      <Method Name="DeleteOrder_Click" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="GetInstance" Hidden="true" />
+      <Method Name="GetSelectedOrderId" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="labelOrderPrice" Hidden="true" />
+      <Method Name="OrdersForm" Hidden="true" />
+      <Method Name="SetFormProperties" Hidden="true" />
+      <Method Name="SetOrderListBindingSource" Hidden="true" />
+      <Method Name="ShowOrderDetails" Hidden="true" />
+      <Method Name="ShowOrderDetails_Click" Hidden="true" />
+      <Field Name="tabControl1" Hidden="true" />
+      <Field Name="tabPage1" Hidden="true" />
+      <Field Name="tabPage2" Hidden="true" />
+      <Method Name="UpdateOrderItems" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>EACIAAAAEKCBABAIggCBAAAGB0QaAA0AQAAALEAhRAA=</HashCode>
+      <FileName>Views\OrdersForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="oop_kr.WelcomeForm">
+    <Position X="8.75" Y="11.5" Width="2.25" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAABAAECAAABAAACCAACACAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Views\WelcomeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="oop_kr.Views.IOrderView">
+    <Position X="33.25" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAggABAAAEAEAcAAEAAAAAJEAAAAA=</HashCode>
+      <FileName>Views\IOrderView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="oop_kr.Models.IAnalyticsRepository">
+    <Position X="12.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\IAnalyticsRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="oop_kr.Models.IDishRepository">
+    <Position X="19.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKAAAAAAAAAAAgAAAAAAAAAAAEAAAACAgAAAAAAAAA=</HashCode>
+      <FileName>Models\IDishRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="oop_kr.Models.IOrderedDishRepository">
+    <Position X="14.75" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Models\IOrderedDishRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="oop_kr.Models.IOrderRepository">
+    <Position X="17.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAABAAAAAAAAAAAEAAAAAEgAAAAAAAAA=</HashCode>
+      <FileName>Models\IOrderRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="oop_kr.Views.IAnalyticsView">
+    <Position X="28" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACIAAAAAAAAEBAAAAAAAAAAAAAEAAAAAACAIAAAAAA=</HashCode>
+      <FileName>Views\IAnalyticsView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="oop_kr.Views.IDishView">
+    <Position X="30.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAACYAAAgAABAjAIAEMIMBAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Views\IDishView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="oop_kr.Views.IFeaturesView">
+    <Position X="36.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAEAAAAAAAAIAACCAA=</HashCode>
+      <FileName>Views\IFeaturesView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="oop_kr.Views.IMainView">
+    <Position X="26" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAAAAAIABAAA=</HashCode>
+      <FileName>Views\IMainView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

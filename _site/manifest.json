@@ -1,0 +1,544 @@
+{
+  "source_base_path": "C:/Users/Алёна/Desktop/2 курс/4 семестр/ООП С#/oop_kr",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html"
+        },
+        ".json": {
+          "relative_path": "articles/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.AddDishToOrderForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.AddDishToOrderForm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.AnalyticsForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.AnalyticsForm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.DataBaseHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.DataBaseHelper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.FeaturesForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.FeaturesForm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.MainForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.MainForm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.MenuForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.MenuForm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Models.AnalyticsRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Models.AnalyticsRepository.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Models.BaseRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Models.BaseRepository.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Models.Dish.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Models.Dish.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Models.DishRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Models.DishRepository.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Models.IAnalyticsRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Models.IAnalyticsRepository.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Models.IDishRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Models.IDishRepository.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Models.IOrderRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Models.IOrderRepository.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Models.IOrderedDishRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Models.IOrderedDishRepository.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Models.Order.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Models.Order.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Models.OrderDisplay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Models.OrderDisplay.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Models.OrderItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Models.OrderItem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Models.OrderedDish.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Models.OrderedDish.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Models.OrderedDishRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Models.OrderedDishRepository.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.OrdersForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.OrdersForm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Presenters.AnalyticsPresenter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Presenters.AnalyticsPresenter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Presenters.DishPresenter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Presenters.DishPresenter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Presenters.FeaturesPresenter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Presenters.FeaturesPresenter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Presenters.MainPresenter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Presenters.MainPresenter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Presenters.OrderPresenter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Presenters.OrderPresenter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Presenters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Presenters.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Utils.FileHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Utils.FileHelper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Utils.ModelDataValidator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Utils.ModelDataValidator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Utils.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Views.IAnalyticsView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Views.IAnalyticsView.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Views.IDishView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Views.IDishView.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Views.IFeaturesView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Views.IFeaturesView.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Views.IMainView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Views.IMainView.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Views.IOrderView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Views.IOrderView.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.Views.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.Views.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.WelcomeForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.WelcomeForm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/oop_kr.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/oop_kr.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "obj/api/toc.html"
+        },
+        ".json": {
+          "relative_path": "obj/api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "packages/Newtonsoft.Json.13.0.3/LICENSE.md",
+      "output": {
+        ".html": {
+          "relative_path": "packages/Newtonsoft.Json.13.0.3/LICENSE.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "packages/Newtonsoft.Json.13.0.3/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "packages/Newtonsoft.Json.13.0.3/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "packages/docfx.console.2.59.4/content/api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "packages/docfx.console.2.59.4/content/api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "packages/docfx.console.2.59.4/content/articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "packages/docfx.console.2.59.4/content/articles/intro.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "packages/docfx.console.2.59.4/content/articles/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "packages/docfx.console.2.59.4/content/articles/toc.html"
+        },
+        ".json": {
+          "relative_path": "packages/docfx.console.2.59.4/content/articles/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "packages/docfx.console.2.59.4/content/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "packages/docfx.console.2.59.4/content/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "packages/docfx.console.2.59.4/content/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "packages/docfx.console.2.59.4/content/toc.html"
+        },
+        ".json": {
+          "relative_path": "packages/docfx.console.2.59.4/content/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

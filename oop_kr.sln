@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_kr", "oop_kr.csproj", "{2D74BBC7-C846-4E18-AC20-63573F80516A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "oop_setup", "..\oop_setup\oop_setup.vdproj", "{3BCB0987-23C0-4343-A4BC-B199CCD89613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D74BBC7-C846-4E18-AC20-63573F80516A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D74BBC7-C846-4E18-AC20-63573F80516A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D74BBC7-C846-4E18-AC20-63573F80516A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D74BBC7-C846-4E18-AC20-63573F80516A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BCB0987-23C0-4343-A4BC-B199CCD89613}.Debug|Any CPU.ActiveCfg = Debug
+		{3BCB0987-23C0-4343-A4BC-B199CCD89613}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {976EE7A2-03FB-4BFA-8E1C-A987035533E5}
+	EndGlobalSection
+EndGlobal
